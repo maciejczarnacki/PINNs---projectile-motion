@@ -18,7 +18,7 @@ $$ \dfrac{d^2y}{dt^2} - g = 0 $$
 
 $$ \dfrac{d^2x}{dt^2} = 0 $$
 
-with appropraite initial conditions y(0) = h_0, x(0) = 0.
+with appropraite initial conditions y(0) = h_0, x(0) = 0, v(0) = v_0 etc...
 
 ### 3. The code
 
